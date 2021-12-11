@@ -30,7 +30,7 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="public/Images/profile.jpg"
+              src="/Images/michael-dam-mEZ3PoFGs_k-unsplash.jpg.jpg"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
